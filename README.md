@@ -1,2 +1,2 @@
 # LoveLace
-Group Projet
+Group Project
