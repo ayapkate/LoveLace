@@ -5,4 +5,4 @@ Sarcilla, Janelle
 Baltazar, Julienne Marga D.
 # LoveLace
 Group Project
-Group Group
+
