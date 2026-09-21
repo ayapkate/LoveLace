@@ -1,2 +1,2 @@
-# SampleTestingGroup
-Groupings in Software Engineering
+# LoveLace
+Group Project
