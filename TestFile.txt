@@ -1,5 +1,8 @@
 GROUP MEMBERS
 
+CEO: LACUS
+employees
+Sarcilla, Janelle
 Scrum Master: AYAP, Kate
 UI/UX Developer: BALTAZAR, Julienne Marga
 Backdnd Developer: SARCILLA, Janelle
