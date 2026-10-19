@@ -5,6 +5,8 @@ employees
 Sarcilla, Janelle
 Scrum Master: AYAP, Kate
 UI/UX Developer: BALTAZAR, Julienne Marga
+DevSecOps Engineer: BAUTISTA, Jasmin 
+
 Backdnd Developer: SARCILLA, Janelle
 
 
